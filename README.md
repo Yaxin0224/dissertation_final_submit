@@ -120,7 +120,7 @@ MAPILLARY_TOKEN <- "MLY|9922859457805691|cef02444f32c339cf09761b104ca4bb5"
 - **Geographically Weighted Regression** (GWR)
 - **Interaction models** with urban form variables
 
-## 📈 Key Results
+## Key Results
 
 ### Overall Statistics
 - **Mean GVI**: 15.6% (SD = 8.2%)
@@ -143,7 +143,7 @@ MAPILLARY_TOKEN <- "MLY|9922859457805691|cef02444f32c339cf09761b104ca4bb5"
 
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
@@ -153,21 +153,21 @@ Contributions are welcome! Please:
 5. Open a Pull Request
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **UCL CASA** for academic support and resources
 - **Mapillary** for providing open street view imagery
 - **ONS** and **TfL** for open data provision
-- **Dissertation supervisor** Nicolas for guidance
+- **Dissertation supervisor** Palominos Ortega, Nicolas for guidance
 - **R and Python communities** for open-source tools
 
-## 📧 Contact
+## Contact
 
-- **Author**: Yaxin
+- **Author**: Yaxin Zhuang
 - **Email**: ucfnyz2@ucl.ac.uk
 - **Institution**: Centre for Advanced Spatial Analysis, UCL
 
-## 🔗 Related Resources
+## Related Resources
 
 - [Mapillary API Documentation](https://www.mapillary.com/developer)
 - [UCL CASA Research](https://www.ucl.ac.uk/bartlett/casa/)
@@ -175,3 +175,5 @@ Contributions are welcome! Please:
 - [streetscape R Package](https://cran.r-project.org/package=streetscape)
 
 ---
+
+<p align="center"> <img src="figures/logo_ucl.png" alt="UCL Logo" width="200"/> <br> <em>Centre for Advanced Spatial Analysis</em> <br> <em>University College London</em> </p>
