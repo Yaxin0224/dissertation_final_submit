@@ -1,0 +1,43 @@
+cat > .gitignore << 'EOF'
+# R specific
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user/
+*.Rproj
+
+# Data files (too large for GitHub)
+data/raw/mapillary_images/
+data/raw/*.xlsx
+data/raw/*.csv
+*.RData
+
+# Output files
+output/full_london_gvi/
+output/*.RData
+
+# System files
+.DS_Store
+Thumbs.db
+
+# API tokens and secrets
+R/config_private.R
+.env
+
+# Large files
+*.zip
+*.tar.gz
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+EOF
