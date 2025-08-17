@@ -81,10 +81,7 @@ install.packages("streetscape")
 ```
 
 3. **Configure API access**
-```r
-# Edit R/config.R with your Mapillary token
-MAPILLARY_TOKEN <- "MLY|9922859457805691|cef02444f32c339cf09761b104ca4bb5"
-```
+
 
 ## Data Sources
 
