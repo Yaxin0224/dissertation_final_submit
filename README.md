@@ -176,4 +176,4 @@ Contributions are welcome! Please:
 
 ---
 
-<p align="center"> <img src="figures/logo_ucl.png" alt="UCL Logo" width="200"/> <br> <em>Centre for Advanced Spatial Analysis</em> <br> <em>University College London</em> </p>
+<p align="center">  <br> <em>Centre for Advanced Spatial Analysis</em> <br> <em>University College London</em> </p>
